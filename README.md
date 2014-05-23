@@ -2,6 +2,6 @@ Projet_Jeu_Entreprise
 =====================
 ufyjrdtfuigjihfg
 hello;
-bitch
-coucou
+bitch \n
+coucou /n
 test
